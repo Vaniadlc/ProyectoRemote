@@ -1,0 +1,1 @@
+select * from emision_poliza
